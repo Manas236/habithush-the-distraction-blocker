@@ -1,0 +1,36 @@
+{
+  "version": 5,
+  "files": {
+    "cli.py": {
+      "status": "completed",
+      "attempts": 0,
+      "last_error": null,
+      "failures": 1
+    },
+    "engine.py": {
+      "status": "completed",
+      "attempts": 0,
+      "last_error": null,
+      "failures": 1
+    },
+    "hosts_manager.py": {
+      "status": "skipped",
+      "attempts": 0,
+      "last_error": null,
+      "failures": 2
+    },
+    "config_handler.py": {
+      "status": "completed",
+      "attempts": 0,
+      "last_error": null,
+      "failures": 1
+    },
+    "timer.py": {
+      "status": "completed",
+      "attempts": 0,
+      "last_error": null,
+      "failures": 1
+    }
+  },
+  "last_updated": "2026-03-28T19:24:52.361418"
+}
